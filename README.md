@@ -6,6 +6,10 @@ Script for finding paired tags ("Binladen tags") in 454 data
 NOTE: Work in progress!
 -----------------------
 
+Split files based on information on "paired tags". Sequencing approach described in
+
+    Binladen et al. 2007. The Binladen J, Gilbert MTP, Bollback JP, Panitz F, Bendixen C, et al. (2007) The Use of Coded PCR Primers Enables High-Throughput Sequencing of Multiple Homolog Amplification Products by 454 Parallel Sequencing. PLoS ONE 2(2): e197. doi:10.1371/journal.pone.0000197
+
 
 Documentation for find_tag_pairs.pl
 -----------------------------------
